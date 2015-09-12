@@ -88,7 +88,7 @@ DATABASES = {
 
 LANGUAGE_CODE = 'en-us'
 
-TIME_ZONE = 'Asia/calcutta'
+TIME_ZONE = 'Asia/kolkata'
 
 USE_I18N = True
 
